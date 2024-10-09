@@ -1,0 +1,8 @@
+.image_text{
+    display: flex;
+    gap: 10%;
+   
+    p{
+        text-align: right;
+    }
+}
